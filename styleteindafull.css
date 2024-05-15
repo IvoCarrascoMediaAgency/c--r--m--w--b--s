@@ -2606,7 +2606,7 @@ p.caracteristicasp1,.eninternet {
 }
 
 .btn24 a,.btn26a a,.btn27a a,.btn26b a,.btn27b a{
-  padding: 10px;
+  padding: 5px;
   color: #fff;
   border: 1px solid #128c7e;
   height: 50px;
@@ -2910,4 +2910,11 @@ img.popimg3 {
        
         grid-template-columns: auto auto;
       }
+      .btnofer {
+     
+        grid-template-rows: auto auto;
+   
+        display: grid;
+        grid-gap: 50px;
+    }
     }
