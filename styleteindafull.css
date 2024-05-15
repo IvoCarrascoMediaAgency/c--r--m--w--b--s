@@ -2606,7 +2606,7 @@ p.caracteristicasp1,.eninternet {
 }
 
 .btn24 a,.btn26a a,.btn27a a,.btn26b a,.btn27b a{
-  padding: 5px;
+  padding: 10px;
   color: #fff;
   border: 1px solid #128c7e;
   height: 50px;
@@ -2631,10 +2631,7 @@ p.caracteristicasp1,.eninternet {
 
 
 .btn24 {
-  display: block;
-  text-align: start;
-  /* width: 80%; */
-  margin: 0 auto;
+ 
 }
 
 .contentg {
@@ -2910,11 +2907,5 @@ img.popimg3 {
        
         grid-template-columns: auto auto;
       }
-      .btnofer {
-     
-        grid-template-rows: auto auto;
    
-        display: grid;
-        grid-gap: 50px;
-    }
     }
