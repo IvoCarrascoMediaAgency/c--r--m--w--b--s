@@ -270,7 +270,7 @@ main#main {
 .text-center {
   text-align: center;
   margin: 10px 0;
-  color: #25d367;
+  color: #253092;
 }
 
 /* Layout & Positioning */
@@ -727,7 +727,7 @@ span.icon-bin {
   background-repeat: none;
   background-size: cover;
   display: none;
-  border: 3px solid #25d366;
+  border: 3px solid #253092;
   box-shadow: -11px 9px 34px -11px rgb(0 0 0);
 
 
@@ -766,7 +766,7 @@ span.icon-bin {
     box-shadow: 1px 6px 24px 0 rgba(7,94,84,.24);
     cursor: pointer;
     -webkit-tap-highlight-color: transparent;
-    background-color: #25d366;
+    background-color: #253092;
 }
 
 .whatmbien2{
@@ -827,7 +827,7 @@ max-height: calc(100vh - 100px);
     height: 70px;
     padding: 0 26px;
     margin: 0;
-    background-color: #25d366;
+    background-color: #253092;
     color: white;
     border-radius: 30px 0 0;
 }
@@ -905,7 +905,7 @@ max-height: calc(100vh - 100px);
     height: 23px;
     border: none;
     border-radius: 50%;
-    background: #33d670;
+    background: #253092;
     font-size: 13px;
     font-weight: 600;
     line-height: 25px;
@@ -943,7 +943,7 @@ max-height: calc(100vh - 100px);
     box-shadow: 1px 6px 24px 0 rgba(7,94,84,.24);
     cursor: pointer;
     -webkit-tap-highlight-color: transparent;
-    background-color: #25d366;
+    background-color: #253092;
 }
 
 
@@ -1130,7 +1130,7 @@ button.btn.btn-success.ml-auto.comprarButton {
 p.cc {
 
   margin: 0 0 0px 0;
-  color: #25d367;
+  color: #253092;
 }
 
 label.cc {
@@ -1148,7 +1148,7 @@ label.faccedula, label.consumidorsinfac, label.clientefac {
 }
 
 .facconsu input[type="checkbox"]:checked + label:before {
-  background: #25d366;
+  background: #253092;
 }
 
 label.faccedula:before, label.consumidorsinfac:before, label.clientefac:before {
@@ -1157,7 +1157,7 @@ label.faccedula:before, label.consumidorsinfac:before, label.clientefac:before {
   height: 25px;
   display: inline-block;
   background: none;
-  border: 2px solid #25d366;
+  border: 2px solid #253092;
   border-radius: 50%;
   left: 13px;
   margin-right: 15px;
@@ -1188,7 +1188,7 @@ label.eti1, label.eti2, label.eti3,label.eti4 {
 
 
 .formasdepagos input[type="checkbox"]:checked + label:before {
-  background: #25d366;
+  background: #253092;
 }
 
 
@@ -1198,7 +1198,7 @@ label.eti1:before , label.eti2:before  , label.eti3:before , label.eti4:before {
   height: 25px;
   display: inline-block;
   background: none;
-  border: 2px solid #25d366;
+  border: 2px solid #253092;
   border-radius: 50%;
   left: 13px;
   margin-right: 15px;
@@ -1212,12 +1212,12 @@ label.eti1:before , label.eti2:before  , label.eti3:before , label.eti4:before {
 
 
  /* label#transb input [type="checkbox"]:checked  {
-   background: #25d366;
+   background: #253092;
   
 }  */
   
 /* .formasdepagos input[type="checkbox"]:checked + label:before {
-  background: #25d366;
+  background: #253092;
 } */
 
 
@@ -1341,12 +1341,12 @@ img.payqr {
   transform: translate(-50%, -50%);
 }
 button.plus::before {
-  background: #25d367;
+  background: #253092;
 }
 
 .item_cantidadt button.plus:after {
   transform: translate(-50%, -50%) rotate(90deg);
-  background: #25d367;
+  background: #253092;
 }
 
 
@@ -1446,7 +1446,7 @@ span.xcerrar {
 }
 
 .separatescrol::-webkit-scrollbar-thumb{
-  color: #25d366;
+  color: #253092;
 }
 
 
@@ -1587,7 +1587,7 @@ span.xcerrar {
 .formasdepagos p {
 
  margin-top: 10px;
-  color: #25d367;
+  color: #253092;
 }
 
 nav.navbar.navbar-dark.bg-dark {
@@ -1693,7 +1693,7 @@ nav.navbar.navbar-dark.bg-dark {
   }
   
   .facconsu input[type="checkbox"]:checked + label:before {
-    background: #25d366;
+    background: #253092;
   }
   
  
@@ -1713,7 +1713,7 @@ nav.navbar.navbar-dark.bg-dark {
   }
   
   .opcione input[type="checkbox"]:checked + label:before {
-    background: #25d366;
+    background: #253092;
   }
   
   label.faccedula:before, label.consumidorsinfac:before, label.clientefac:before {
@@ -1722,7 +1722,7 @@ nav.navbar.navbar-dark.bg-dark {
     height: 25px;
     display: inline-block;
     background: none;
-    border: 2px solid #25d366;
+    border: 2px solid #253092;
     border-radius: 50%;
     left: 13px;
     margin-right: 15px;
@@ -1764,7 +1764,7 @@ nav.navbar.navbar-dark.bg-dark {
     height: 25px;
     display: inline-block;
     background: none;
-    border: 2px solid #25d366;
+    border: 2px solid #253092;
     border-radius: 50%;
     left: 13px;
     margin-right: 15px;
@@ -1813,7 +1813,7 @@ nav.navbar.navbar-dark.bg-dark {
     height: 25px;
     display: inline-block;
     background: none;
-    border: 2px solid #25d366;
+    border: 2px solid #253092;
     border-radius: 50%;
     left: 13px;
     margin-right: 15px;
@@ -1847,7 +1847,7 @@ nav.navbar.navbar-dark.bg-dark {
     height: 25px;
     display: inline-block;
     background: none;
-    border: 2px solid #25d366;
+    border: 2px solid #253092;
     border-radius: 50%;
     left: 13px;
     margin-right: 15px;
@@ -1974,7 +1974,7 @@ nav.navbar.navbar-dark.bg-dark {
   
   p.wsbmarca a {
     text-decoration: none;
-    color: #25d366;
+    color: #253092;
   }
   
   
@@ -2056,12 +2056,12 @@ nav.navbar.navbar-dark.bg-dark {
 }
 
 .seguirc a{
-  color: #25d366;
+  color: #253092;
   background-color: white;
 }
 
 .continuar {
-  background-color: #25d366;
+  background-color: #253092;
   color: white;
   font-weight: bold;
   font-size: 20px;
@@ -2077,7 +2077,7 @@ nav.navbar.navbar-dark.bg-dark {
 
 .seguirc {
   
-  color: #25d366;
+  color: #253092;
   font-weight: bold;
   font-size: 20px;
   line-height: 1.8;
@@ -2155,7 +2155,7 @@ nav.navbar.navbar-dark.bg-dark {
   
    
   
-    background-color: #25d366;
+    background-color: #253092;
     color: white;
     font-weight: bold;
     font-size: 15px;
@@ -2194,7 +2194,7 @@ nav.navbar.navbar-dark.bg-dark {
    */
 
    
-input#botona,input#button{background-color: #25d366;
+input#botona,input#button{background-color: #253092;
   color: white;
   font-weight: bold;
   font-size: 15px;
@@ -2227,7 +2227,7 @@ input#botona,input#button{background-color: #25d366;
 .energon {
   
     width: 150px !important;
-    background: #25d367 !important;
+    background: #253092 !important;
     height: 50px !important;
     font-size: 20px !important;
     color: white!important;
@@ -2307,7 +2307,7 @@ div#fantasmaimgnamef {
   margin: 0 auto;
   display: block;
  
-  background: #00bfa5;;
+  background: #253092;;
   border-radius: 10px;
 }
 
@@ -2331,7 +2331,7 @@ div#fantasmaimgnamef {
     left: 0;
     display: grid;
     z-index: 1;
-    background: #00bfa5;
+    background: #253092;
     height: auto;
     z-index: 3;
     border-radius: 10px;
@@ -2400,7 +2400,7 @@ div#fantasmaimgnamef {
 
 .unop{
   text-align: center;
-  background:#00bfa5;
+  background:#253092;
   border-radius: 10px;
   color: white;
   padding: 5px;
@@ -2423,13 +2423,13 @@ div#fantasmaimgnamef {
 
 .btnpop a{
   color: #fff;
-    border: 1px solid #128c7e;
+    border: 1px solid #253092;
     height: 100px;
     font-weight: 700;
     align-items: center;
     cursor: pointer;
-    background: linear-gradient(to bottom,#bdf1d1 0,#25d366 100%);
-    border: 1px solid #128c7e;
+    background: linear-gradient(to bottom, #bdcef1 0, #253092 100%);
+    border: 1px solid #253092;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;
@@ -2454,7 +2454,7 @@ img.popimg {
 }
 
 .masvendidos1 p,.masvendidos p,.masvendidos1a p {
-  background: #e9faef;
+  background: #e9ebfa;
   display: block;
   /* height: 200px; */
   align-items: center;
@@ -2469,7 +2469,7 @@ img.popimg {
 .newv{
   margin:  20px;
   padding: 10px 15px;
-  background-color: #00bfa5;
+  background-color: #253092;
   border-radius: 21px ;
   display: table;
   color: white;
@@ -2498,7 +2498,7 @@ margin: 0 auto;
 
 .wistiaf {
   border-radius: 20px;
-  border: 1px solid #33d670;
+  border: 1px solid #253092;
   overflow: hidden;
 }
 .accesoimg.btn2 {
@@ -2509,10 +2509,10 @@ margin: 0 auto;
 img.popimg2 {
   width: 100%;
   border-radius: 20px;
-  border: 2px solid #00bfa5;
+  border: 2px solid #253092;
 }
 .recibiras{
-  background: #00bfa5;
+  background: #253092;
   display: block;
 color: white;
   /* margin-bottom: 100px; */
@@ -2543,7 +2543,7 @@ img.imgantia {
   margin: 0 auto;
 }
 p.caracteristicasp1,.eninternet {
-  background: #e9faef;
+  background: #e9ebfa;
   display: block;
   /* height: 200px; */
   align-items: center;
@@ -2572,7 +2572,7 @@ p.caracteristicasp1,.eninternet {
 
 .garantiaspan {
     display: grid;
-    background: linear-gradient(to bottom,#8fffb2 10%,#41d2a6 100%);
+    background: linear-gradient(0deg, rgba(37,48,146,1) 0%, rgba(44,117,178,1) 0%, rgba(51,194,214,0.56) 100%, rgba(255,255,240,1) 100%);
     align-items: center;
     align-content: center;
     /* margin-bottom: 100px; */
@@ -2608,13 +2608,13 @@ p.caracteristicasp1,.eninternet {
 .btn24 a,.btn26a a,.btn27a a,.btn26b a,.btn27b a{
   padding: 10px;
   color: #fff;
-  border: 1px solid #128c7e;
+  border: 1px solid #253092;
   height: 50px;
   font-weight: 700;
   /* align-items: center; */
   cursor: pointer;
-  background: linear-gradient(to bottom,#bdf1d1 0,#25d366 100%);
-  border: 1px solid #128c7e;
+  background: linear-gradient(to bottom, #bdcef1 0, #253092 100%);
+  border: 1px solid #253092;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
@@ -2701,7 +2701,7 @@ div#contacto2 {
 
 .macan{
   display: grid;
-  grid-template-columns: 50% 50%;
+  /* grid-template-columns: 50% 50%; */
   margin-bottom: 20px;
   justify-content: center;
   justify-items: center;
@@ -2739,6 +2739,7 @@ align-items: center; */
 
 }
 
+
 .imgwin{
   width: 200px;
   margin-bottom: 20px;
@@ -2763,7 +2764,7 @@ align-items: center; */
 .sectores {
   display: grid;
   grid-template-columns: auto auto auto auto;
-  background: linear-gradient(to bottom, #8fffb2 10%, #41d2a6 100%);
+  background: linear-gradient(0deg, rgba(37,48,146,1) 0%, rgba(44,117,178,1) 0%, rgba(51,194,214,0.56) 100%, rgba(255,255,240,1) 100%);
     margin-top: 50px;
     border-radius: 20px;
 }
@@ -2798,12 +2799,40 @@ img.popimg3 {
   margin-top: -40px;
 }
 
+p.caracteristicasp23 {
+
+  align-items: center;
+  align-content: center;
+ 
+  padding: 20px;
+ 
+  text-align: justify;
+}
+
+.caracteristicasp23 span{
+  background: #e9ebfa;
+  display: block;
+
+ 
+  padding: 20px;
+ 
+
+}
+
 
   @media  (max-width: 375px) {
       .orderDialog {
         margin-top: 50%;
         margin-left: 5%;
       }
+      .popimg22 {
+        display: grid;
+      
+      
+        margin-bottom: 30px;
+      }
+      
+      
     }
     
     @media  (min-width: 376px) and (max-width: 1023px) {
@@ -2826,7 +2855,13 @@ img.popimg3 {
 
     @media  (min-width: 768px) {
 
-    
+      .popimg22 {
+        display: grid;
+        grid-template-columns: 50% 50%;
+      
+        margin-bottom: 30px;
+      }
+      
          
 .count {
   
@@ -2907,5 +2942,8 @@ img.popimg3 {
        
         grid-template-columns: auto auto;
       }
+
+    
+     
    
     }
