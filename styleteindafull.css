@@ -168,6 +168,10 @@ h3.item-title {
     opacity: .2;
 }
 
+h4.item-price {
+    display: none;
+}
+
 .itemocul {
     display:none;
 } 
